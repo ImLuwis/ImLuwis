@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently Studying at [DFCAMCLP IT CAMPUS](https://www.facebook.com/dfcamclpitcampus/)
 
-- 🌱 I’m currently learning **flutter, Figma and GIMP**
+- 🌱 I’m currently learning **flutter, Figma, NEOVIM, VIM and GIMP**
 
 - 💬 Ask me about **c, c++, java, html, css and python**
 
